@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,15&height=200&section=header&text=Error%20404%3A%20Tidur%20Not%20Found&fontSize=40&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Masih%20hidup%2C%20masih%20ngetik%2C%20entah%20sampai%20kapan...&descAlignY=58&descColor=ccffcc&descSize=18)](https://github.com/dhafinn93)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,19&height=200&section=header&text=Error%20404%3A%20Tidur%20Not%20Found&fontSize=40&fontColor=00cfff&animation=twinkling&fontAlignY=40&desc=Masih%20hidup%2C%20masih%20ngetik%2C%20entah%20sampai%20kapan...&descAlignY=62&descColor=ffffff&descSize=18)](https://github.com/dhafinn93)
 
 <div align="center">
 
