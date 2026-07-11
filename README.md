@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00CC&center=true&vCenter=true&width=500&lines=Halo%2C+aku+Dhafinn+%F0%9F%91%8B;Mahasiswa+yang+suka+ngoding...;...dan+lupa+tidur+%F0%9F%92%80;Laravel+%7C+PHP+%7C+JavaScript)](https://github.com/dhafinn93)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00cfff&center=true&vCenter=true&width=500&lines=Halo%2C+aku+Dhafinn+%F0%9F%91%8B;Mahasiswa+yang+suka+ngoding...;...dan+lupa+tidur+%F0%9F%92%80;Laravel+%7C+PHP+%7C+JavaScript)](https://github.com/dhafinn93)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/dhafinn93)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,15&height=100&section=footer)](https://github.com/dhafinn93)
 
 *"Kode yang bagus itu seperti humor — kalau harus dijelaskan, berarti kurang bagus."* 💀
 
