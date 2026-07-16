@@ -8,15 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Mahasiswa yang hidupnya dikelilingi **error** dan **deadline**
-- 💻 Lagi belajar **Web Fullstack** (Laravel & JavaScript)
-- 🐛 Hobi: bikin bug, lalu pura-pura tidak tahu siapa yang bikin
-- 🌙 Tidur? **Error 404 — fitur belum tersedia**
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
